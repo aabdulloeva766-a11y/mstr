@@ -1,0 +1,49 @@
+.s1 span,
+.s3 h2{
+    padding: 20px;
+    text-align: center;
+} 
+
+.s2 img{
+    width: 100%;
+}
+.d1{
+    display: flex;
+}
+.m1{
+    width: 100px;
+    gap: 10px;
+    padding: 20px;
+}
+.img1{
+    padding: 20px;
+    width: 130px;
+}
+.box1 img{
+    width: 250px;
+}
+
+button{
+    background-color: orange;
+    color: white;
+    width: 250px;
+}
+.d2{
+    border: 2px gray;
+    padding: 30px;
+}
+.s3 p{
+    padding-left: 80px;
+}
+.box1{
+    display: flex;
+    padding: 10px;
+}
+.s4{
+    background-color: rgb(45, 45, 84);
+    color: #fff;
+}
+.s4{
+    padding-left: 50px;
+    padding: 150px;
+}
